@@ -2,15 +2,15 @@ body{
     background-color: black;
     color: white;
     text-align: center;
-    border: red;
+
     }
     
     h1{
     background-color: red;
     text-align: center;
-
-    }
-    strong{
+    border-image: 10px color red
+}
+strong{
     color: red;
     }
     #banner{
