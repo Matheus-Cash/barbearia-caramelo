@@ -9,6 +9,7 @@ body{
     background-color: red;
     text-align: center;
     border: 10px solid;
+    padding: 10px;
 }
 strong{
     color: red;
