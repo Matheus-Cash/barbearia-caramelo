@@ -39,6 +39,9 @@ vertical-align: top;
 width: 20%;
 margin-right: 15%;
 border: 3px solid black ;
+margin-top: 130px;
+line-height: 1.5px;
+font-size: 18px;
 }
 
 h2{
@@ -47,5 +50,4 @@ background-color: red;
 text-align: center;
 border: 10x solid;
 padding: 10px;
-margin: auto;
 }
