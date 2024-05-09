@@ -26,9 +26,18 @@ strong {
 }
 
 .beneficios {
-    background-color: black;
+    background-color: rgb(33, 157, 215);
     padding: 20px;
 }
+
+
+h2 {
+    color: white;
+    background-color: rgb(132, 255, 0);
+    text-align: center;
+    border: 10x solid;
+    padding: 10px;
+} 
 
 .itens {
     text-align: left;
@@ -45,12 +54,4 @@ ul {
     width: 20%;
     margin-right: 15%;
     border: 3px solid rgb(173, 210, 24);
-}
-
-h2 {
-    color: white;
-    background-color: rgb(132, 255, 0);
-    text-align: center;
-    border: 10x solid;
-    padding: 10px;
 }
