@@ -43,7 +43,6 @@ h2 {
 .itens {
     text-align: left;
     font-size: 22px;
-    color: black;
 }
 
 .imagembeneficios {
@@ -55,5 +54,5 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
-    border: 3px solid rgb(173, 210, 24);
+    border: 3px solid rgb(0, 0, 0);
 }
